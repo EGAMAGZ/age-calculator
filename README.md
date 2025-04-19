@@ -28,6 +28,20 @@ características:
 > Este proyecto es obtenido de la página de
 > <a href="https://roadmap.sh/projects/age-calculator">roadmap.sh</a>
 
+## Ejecución
+
+Requisitos:
+
+- [Deno](https://deno.land/)
+
+```bash
+deno install
+```
+
+```bash
+deno task dev
+```
+
 ## Soluciones hechas por la comunidad
 
 | Usuario | Repositorio | Website | Figma |

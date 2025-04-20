@@ -5,7 +5,8 @@ usando npm. El usuario introduce su fecha de nacimiento a través de un
 JavaScript Datepicker, y la aplicación calcula y muestra su edad exacta,
 incluyendo años y meses usando [Luxon](https://www.npmjs.com/package/luxon).
 
-![age-calculator-do1un](https://github.com/user-attachments/assets/a7a0dbce-545d-4d46-a5e6-637ba78809b4)
+https://github.com/user-attachments/assets/ef83eaae-4e85-4d5b-9e40-d52435e6188b
+
 
 ## Requisitos
 
